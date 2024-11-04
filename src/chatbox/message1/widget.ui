@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>widget</class>
+ <widget class="QDialog" name="widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>447</width>
+    <height>516</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Chat</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>9</y>
+     <width>431</width>
+     <height>501</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>Your_Name  :</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="nickname"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QTextEdit" name="textEdit"/>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>Message :</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="message"/>
+      </item>
+      <item>
+       <widget class="QPushButton" name="send">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	
+	font: 12pt &quot;MV Boli&quot;;
+    background-color: #87c834;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    color: black;
+    padding: 8px 16px;
+}
+
+QPushButton:hover {
+    background-color: #6CAD83;
+}
+
+</string>
+        </property>
+        <property name="text">
+         <string>Envoyer </string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="bind">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	
+	font: 12pt &quot;MV Boli&quot;;
+    background-color: #87c834;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    color: black;
+    padding: 8px 16px;
+}
+
+QPushButton:hover {
+    background-color: #6CAD83;
+}
+
+</string>
+        </property>
+        <property name="text">
+         <string>Connecter </string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
