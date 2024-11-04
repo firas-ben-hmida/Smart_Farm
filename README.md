@@ -1,11 +1,12 @@
 # Login
 ![Capture d'écran 2024-11-04 211803](https://github.com/user-attachments/assets/369c10e0-43f8-43d9-9b7e-84872dc5199c)
-![Capture d'écran 2024-11-04 211836](https://github.com/user-attachments/assets/77ec3485-3e5c-4fab-8ca9-df17794509b5)
+![Capture d'écran 2024-11-04 233751](https://github.com/user-attachments/assets/8a7090c1-d389-4cb8-b7e4-e8064531a340)
 # Gestion Des Produits
 ![Capture d'écran 2024-11-04 212004](https://github.com/user-attachments/assets/fcc9b203-2c45-44e6-9a3e-52da4c8bee0f)
 ![Capture d'écran 2024-11-04 212023](https://github.com/user-attachments/assets/2d5bf5ee-90df-42f1-9c6f-9e6d0540ee74)
 ![Capture d'écran 2024-11-04 212150](https://github.com/user-attachments/assets/ab4d853c-8f74-4e9d-bb65-25a049dde0f8)
-![Capture d'écran 2024-11-04 212132](https://github.com/user-attachments/assets/7b5d57b7-2ce1-4b34-aed5-1f723906e229)
+![Capture d'écran 2024-11-04 233816](https://github.com/user-attachments/assets/3382a7da-a121-43d0-bfc0-fe7cc727c8c5)
+
 # Statistiques 
 ![Capture d'écran 2024-11-04 213301](https://github.com/user-attachments/assets/e39cf34c-cdf4-4e7c-ae49-9e464e89e407)
 # QR Code pour chaque Produit
