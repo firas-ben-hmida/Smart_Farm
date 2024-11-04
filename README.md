@@ -8,7 +8,7 @@
 ![Capture d'écran 2024-11-04 233816](https://github.com/user-attachments/assets/3382a7da-a121-43d0-bfc0-fe7cc727c8c5)
 
 # Statistiques 
-![Capture d'écran 2024-11-04 213301](https://github.com/user-attachments/assets/e39cf34c-cdf4-4e7c-ae49-9e464e89e407)
+![Capture d'écran 2024-11-04 235348](https://github.com/user-attachments/assets/742af0cd-9cb0-472a-a6e1-e69e94596dde)
 # QR Code pour chaque Produit
 ![Capture d'écran 2024-11-04 212347](https://github.com/user-attachments/assets/32393e31-d678-41ec-9e49-1ef98550c123)
 # Notification Pour La Date D'expiration Du Produit
