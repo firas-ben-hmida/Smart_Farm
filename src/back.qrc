@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>tt.png</file>
+    </qresource>
+    <qresource prefix="/res2">
+        <file>fond1.png</file>
+    </qresource>
+    <qresource prefix="/res3">
+        <file>ff.png</file>
+    </qresource>
+</RCC>
