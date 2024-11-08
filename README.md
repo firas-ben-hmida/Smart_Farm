@@ -17,11 +17,11 @@
 # Gestion Des Employes
 ![Capture d'écran 2024-11-04 224114](https://github.com/user-attachments/assets/8df98753-44a9-48ab-b812-8f6a871777fa)
 # ChatBox
-![Capture d'écran 2024-11-04 221855](https://github.com/user-attachments/assets/456481dc-4b38-4faa-af9d-7816fc233f1a)
-![Capture d'écran 2024-11-04 221935](https://github.com/user-attachments/assets/1b2b39da-8ef7-46d7-b4de-7c1d84b1c7bc)
-![Capture d'écran 2024-11-04 222555](https://github.com/user-attachments/assets/d7b1e7ed-fd91-4d67-9e7c-394f1abf844f)
-![Capture d'écran 2024-11-04 222614](https://github.com/user-attachments/assets/14f314d9-9c30-4013-8c15-58f44c2ad0a4)
-![Capture d'écran 2024-11-04 223758](https://github.com/user-attachments/assets/3888c0a1-daa1-45a2-b6cc-93beffebda2b)
+![Capture d'écran 2024-11-08 143448](https://github.com/user-attachments/assets/02a64a94-ae68-4363-8be2-36006d137e23)
+![Capture d'écran 2024-11-08 143602](https://github.com/user-attachments/assets/6cb90388-bf2d-4822-8225-b4ed4405772d)
+![Capture d'écran 2024-11-08 143654](https://github.com/user-attachments/assets/1c49a00f-a066-499c-a0d4-5e3fb9daadcb)
+![Capture d'écran 2024-11-08 143719](https://github.com/user-attachments/assets/4c9cea26-a783-4b28-a45b-0688ae212c82)
+![Capture d'écran 2024-11-08 143947](https://github.com/user-attachments/assets/03196d34-4de2-4770-a267-10b25d4acaef)
 # Gestion Des Clients
 ![Capture d'écran 2024-11-04 224446](https://github.com/user-attachments/assets/a00a4338-39e6-44da-b7c6-0a532da9d2fd)
 # Mailing
