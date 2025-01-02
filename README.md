@@ -28,6 +28,9 @@
 ![Capture d'écran 2024-11-04 225704](https://github.com/user-attachments/assets/9aee69df-8575-439e-8ceb-abdd68652e18)
 ![Capture d'écran 2024-11-04 225848](https://github.com/user-attachments/assets/a3a1425a-10fb-43b1-8d7e-d3e69b70760a)
 ![Capture d'écran 2024-11-04 225909](https://github.com/user-attachments/assets/2d7172ef-e790-435c-8af4-5a21e3e02592)
+![Capture d'écran 2025-01-02 194753](https://github.com/user-attachments/assets/fcd00a5a-9d70-48e2-b200-9786c56ac2b6)
+![Capture d'écran 2025-01-02 194905](https://github.com/user-attachments/assets/ac1c1ae4-fda8-4723-b25c-6f6c159cdf64)
+![Capture d'écran 2025-01-02 194922](https://github.com/user-attachments/assets/add7e5e7-b9cd-4c95-922d-b78d325d0408)
 # Gestion Des Animaux
 ![Capture d'écran 2024-11-04 230111](https://github.com/user-attachments/assets/8e044547-04a7-4f85-a343-186a4a77d119)
 # ChatBot
